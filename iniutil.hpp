@@ -7,6 +7,7 @@
 #include <vector>
 
 enum IniFileMode {
+	NONE,
 	IN,
 	OUT,
 	BOTH
